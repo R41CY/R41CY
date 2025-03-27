@@ -18,7 +18,8 @@ Welcome to my GitHub profile! I'm an aspiring Software Developer with experience
 ## 🔧 Technologies & Skills  
 
 ### 💻 **Programming & Development**  
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)  
+![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)  
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
