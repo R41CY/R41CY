@@ -1,59 +1,88 @@
-# Hi there, I'm R41CY! 👋  
+<h1 align="center">Hi there, I'm R41CY! 👋</h1>  
 
-![GitHub followers](https://img.shields.io/github/followers/R41CY?label=Follow&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/R41CY?affiliations=OWNER%2CCOLLABORATOR&style=social)  
+<p align="center">
+  <img src="https://img.shields.io/github/followers/R41CY?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/stars/R41CY?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+</p>
 
-Welcome to my GitHub profile! I'm an aspiring Software Developer with experience in game development, web development, and database management. Passionate about open-source projects, technology, and continuous learning.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Aspiring+Software+Developer;Passionate+about+Game+Dev+and+Web+Tech;Open-Source+Contributor+%26+Tech+Enthusiast;Always+Learning+New+Things! 🚀" />
+</p>
+
+---
 
 ## 🧑‍💻 About Me  
 
-- 🎓 **Education:** BS in Information Technology 
+- 🎓 **Education:** BS in Information Technology  
 - 🏆 **Certificates:**  
-  - Java Foundation, Oracle Academy (2022)  
-  - System Administration, Oracle Academy (2022)  
-  - SAP Business One (SAP Advance), FIT Academy (2024)  
-- 🎮 **Achievement:** Runner-up Team Captain - Mobile Legends Intramurals  
-- 📫 **Contact:** jeofsison9@gmail.com  
+  - ✅ Java Foundation, Oracle Academy (2022)  
+  - ✅ System Administration, Oracle Academy (2022)  
+  - ✅ SAP Business One (SAP Advance), FIT Academy (2024)  
+- 🎮 **Achievement:** 🏆 **Runner-up Team Captain** - Mobile Legends Intramurals  
+- 📫 **Contact:** 📩 jeofsison9@gmail.com  
+
+---
 
 ## 🔧 Technologies & Skills  
 
 ### 💻 **Programming & Development**  
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)  
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)  
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp" />
+  <img src="https://img.shields.io/badge/-PHP-333?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML-333?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS-333?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql" />
+</p>
 
 ### 🛠 **Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)  
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
-![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)  
-![Microsoft Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoft-excel)  
-![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Unity-333?style=flat&logo=unity" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Excel-333?style=flat&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/-Canva-333?style=flat&logo=canva" />
+</p>
+
+---
 
 ## 📂 Notable Projects  
 
 ### 🎮 **Neural Labyrinth (Game Development)**  
-A web-based game designed to teach programming concepts.  
-- **Role:** Lead Game Developer  
-- **Technologies:** C#, Unity  
-- **Key Contributions:** Designed game mechanics and implemented interactive learning elements  
+> **A web-based game designed to teach programming concepts.**  
+- 🎮 **Role:** Lead Game Developer  
+- 🔧 **Technologies:** C#, Unity  
+- 🏗 **Key Contributions:** Designed game mechanics and implemented interactive learning elements  
 
 ### 🌐 **Database-Connected Web Development Project**  
-Developed a dynamic website with database integration.  
-- **Key Features:** User authentication, data management, responsive UI  
+> **A dynamic website with database integration.**  
+- 🛠 **Key Features:** User authentication, data management, responsive UI  
+
+---
 
 ## 📊 GitHub Stats  
 
-![R41CY's GitHub stats](https://github-readme-stats.vercel.app/api?username=R41CY&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R41CY&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R41CY&theme=radical" />
+</p>
+
+---
 
 ## 📫 Let's Connect!  
 
-- **Email:** jeofsison9@gmail.com  
-- **Facebook:** [R41CY](https://facebook.com/raicy.gov)   
+<p align="center">
+  <a href="mailto:jeofsison9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/raicy.gov">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
-Feel free to check out my repositories and collaborate! 🚀  
+---
 
+🚀 **Feel free to check out my repositories and collaborate!** 🚀  
