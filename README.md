@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an aspiring Software Developer with experience
 
 ## 🧑‍💻 About Me  
 
-- 🎓 **Education:** BS in Information Technology (STI Sta. Mesa)  
+- 🎓 **Education:** BS in Information Technology 
 - 🏆 **Certificates:**  
   - Java Foundation, Oracle Academy (2022)  
   - System Administration, Oracle Academy (2022)  
