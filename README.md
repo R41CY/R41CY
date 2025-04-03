@@ -18,7 +18,7 @@
   - ✅ Java Foundation, Oracle Academy (2022)  
   - ✅ System Administration, Oracle Academy (2022)  
   - ✅ SAP Business One (SAP Advance), FIT Academy (2024)  
-- 📫 **Contact:** 📩 jeofsison9@gmail.com  
+
 
 ---
 
