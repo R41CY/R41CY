@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm R41CY!! 👋</h1>  
+<h1 align="center">Hi there, I'm R41CY 👋</h1>  
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/R41CY?label=Follow&style=social" />
