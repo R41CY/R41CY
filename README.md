@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jeof Yciar (R41CY) 👋</h1>
+<h1 align="center">Hi, I'm Jeof Sison (R41CY) 👋</h1>
 
 <p align="center">
 IT Support • Service Desk • Web Development • Game Development
@@ -7,10 +7,6 @@ IT Support • Service Desk • Web Development • Game Development
 <p align="center">
 <img src="https://img.shields.io/github/followers/R41CY?style=social">
 <img src="https://img.shields.io/github/stars/R41CY?affiliations=OWNER%2CCOLLABORATOR&style=social">
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=700&lines=IT+Service+Desk+Support;Remote+Troubleshooting+Specialist;Ticketing+System+Developer;Game+Developer+(Capstone);Always+Learning+New+Technologies+🚀" />
 </p>
 
 ---
@@ -38,11 +34,11 @@ A **web-based ticketing platform** built for office environments to manage servi
 
 **Key Features**
 
-- Ticket creation and management
-- Admin dashboard
-- Approval and validation workflow
-- Real-time updates using WebSockets
-- Automated testing support
+- Ticket creation and management  
+- Admin dashboard  
+- Approval and validation workflow  
+- Real-time updates using WebSockets  
+- Automated testing support  
 
 **Technologies Used**
 
@@ -52,14 +48,14 @@ PHP • SQL Server • Node.js • WebSockets • Cypress
 
 ## 🎮 Neural Labyrinth (Capstone Project)
 
-A **game designed to teach programming concepts interactively**.
+A **game designed to teach programming concepts interactively.**
 
 **My Role**
 
-- Lead Game Developer
-- Designed game mechanics
-- Implemented gameplay logic
-- Built interactive learning features
+- Lead Game Developer  
+- Designed game mechanics  
+- Implemented gameplay logic  
+- Built interactive learning features  
 
 **Technologies Used**
 
@@ -77,24 +73,24 @@ Unity • C# • Game Development Concepts
 
 ### 🖥 IT Support
 
-- ServiceNow
-- SCCM Remote Control
-- Microsoft Teams
-- Quick Assist / Remote Help
-- Windows troubleshooting
-- Network diagnostics
-- Kenan
-- CSP
-- Clarity
-- Siebel
+- ServiceNow  
+- SCCM Remote Control  
+- Microsoft Teams  
+- Quick Assist / Remote Help  
+- Windows troubleshooting  
+- Network diagnostics  
+- Kenan  
+- CSP  
+- Clarity  
+- Siebel  
 
 ---
 
 # 🏆 Certifications
 
-- Java Foundation — Oracle Academy (2022)
-- System Administration — Oracle Academy (2022)
-- SAP Business One (SAP Advance) — FIT Academy (2024)
+- Java Foundation — Oracle Academy (2022)  
+- System Administration — Oracle Academy (2022)  
+- SAP Business One (SAP Advance) — FIT Academy (2024)  
 
 ---
 
